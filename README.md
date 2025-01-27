@@ -4,4 +4,4 @@
 Есть опыт написания сайтов на Python Django
 
 На данный момент прохожу обучение на курсах Java разработки от Нетологии 
-![GnRc5kZXeE4.jpg](..%2F..%2FPictures%2FGnRc5kZXeE4.jpg)
+![GnRc5kZXeE4](https://github.com/user-attachments/assets/061daa92-1d64-4bd3-85cd-b79001c26e88)
